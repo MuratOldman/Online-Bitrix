@@ -12,7 +12,8 @@ public class Driver {
 
     //1-Make constructor private
     private Driver(){
-    }
+        //just for practice
+     }
 
     private static WebDriver driver;
 
